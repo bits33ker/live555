@@ -1,0 +1,1 @@
+C:\Users\eugenio.voss\Documents\workspace\cpp\vcpkg\packages\live555\testProgs\testRTSP\Debug\testRTSP.vcxproj.CopyComplete

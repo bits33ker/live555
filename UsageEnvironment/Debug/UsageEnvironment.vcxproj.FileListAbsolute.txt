@@ -1,0 +1,2 @@
+C:\Users\eugenio.voss\Documents\workspace\cpp\vcpkg\packages\live555\Debug\UsageEnvironment.pdb
+C:\Users\eugenio.voss\Documents\workspace\cpp\vcpkg\packages\live555\UsageEnvironment\Debug\UsageEnvironment.pdb
